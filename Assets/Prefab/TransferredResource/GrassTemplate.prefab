@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4354974437693628448}
   - component: {fileID: 4330716621238641088}
   - component: {fileID: 4337121862992844168}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: BetterCrystal01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   - component: {fileID: 4354888850838498464}
   - component: {fileID: 4330039565488556056}
   - component: {fileID: 4337838822007024252}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: BetterCrystal01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -173,7 +173,7 @@ GameObject:
   - component: {fileID: 4354837113186229792}
   - component: {fileID: 4330599776290506604}
   - component: {fileID: 4337979600634052970}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: BetterCrystal01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -255,7 +255,7 @@ GameObject:
   - component: {fileID: 2428663756033041793}
   - component: {fileID: 8233314608802222475}
   - component: {fileID: 7405159050981126209}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: GrassTemplate
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -335,7 +335,7 @@ GameObject:
   - component: {fileID: 4354698882102191702}
   - component: {fileID: 4329789991584506760}
   - component: {fileID: 4337642492287996644}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: BetterCrystal01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -416,7 +416,7 @@ GameObject:
   - component: {fileID: 4355337357250378286}
   - component: {fileID: 4330718588277197590}
   - component: {fileID: 4338523712644907900}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: BetterCrystal01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -497,7 +497,7 @@ GameObject:
   - component: {fileID: 4355206526130984030}
   - component: {fileID: 4329828005537712552}
   - component: {fileID: 4337892021726790134}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: BetterCrystal01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -578,7 +578,7 @@ GameObject:
   - component: {fileID: 4355400305118524570}
   - component: {fileID: 4329753575110619642}
   - component: {fileID: 4337670546201273034}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: BetterCrystal01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}

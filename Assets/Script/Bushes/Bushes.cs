@@ -21,7 +21,7 @@ public class Bushes : MonoBehaviour
         _isCutOff = false;
         _normalScale = _grass.transform.localScale;
         _crystalSpawner = GetComponent<CrystalSpawner>();
-        _crystalSpawner.Spawn();
+        _crystalSpawner.SpawnAtStart();
     }
 
     public void Cut()

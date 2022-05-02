@@ -5,6 +5,11 @@ using DG.Tweening;
 
 public class TransferredResource : MonoBehaviour
 {
+    private void Start()
+    {
+        transform.rotation = new Quaternion(Random.Range(0, 361), Random.Range(0, 361), Random.Range(0, 361), 0);
+    }
+
     public void Transfer(Vector3[] transferPath, float transferTime)
     {
         StartCoroutine(OrganizeMovement(transferPath, transferTime));
